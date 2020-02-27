@@ -4,7 +4,6 @@ require_relative '../bin/run'
 Hashie
 Sinatra
 Octokit
-Pry
-AwesomePrint
+
 
 
